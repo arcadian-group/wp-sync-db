@@ -10,5 +10,10 @@
   },
   "scripts": {
     "test": "./test.sh"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
   }
 }
